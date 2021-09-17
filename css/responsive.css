@@ -1,0 +1,231 @@
+/* responsive for index page */
+@media (max-width:1350px) {
+	.navigation{
+		display: none;
+	}
+	.burger {
+		display: block;
+	}
+}
+@media (max-width:1200px){
+	.unite{
+		flex-wrap: wrap;
+	}
+	.image{
+		margin-left: 25px;
+	}
+	.wine{
+		font-size: 42px;
+		margin-right:700px;
+		margin-top: 8px;
+	}
+	.text{
+		margin-left: 25px;
+		margin-top: 8px;
+	}
+	.wine2{
+		font-size:32px;
+		margin-right: 500px;
+	}
+	.form2{
+		margin-left:500px;
+	}
+	
+}
+@media( max-width:1080px){
+	.form2{
+		margin-left:400px;
+	}
+	.title7{
+		font-size: 40px;
+	}
+	.text10{
+		font-size: 28px;
+	}
+	.wine-glass{
+		width: 70%;
+	}
+	.wine{
+		margin-right:600px;
+		font-size: 32px;
+	}
+	.wine2{
+		margin-bottom:8px;
+	}
+	.text14{
+		margin-left:20px;
+	}	
+}
+@media(max-width:850px){
+	.wine11{
+		font-size:36px;
+	}
+	.title1{
+		font-size:38px;
+	}
+	.title2{
+		font-size:22px;
+	}
+	.title3{
+		font-size:34px;
+	}
+	.title4{
+		font-size:34px;
+	}
+	.text7{
+		font-size:18px;
+	}
+	.title5{
+		font-size:30px;
+	}
+	.text8{
+		font-size:16px;
+	}
+	.title7{
+		font-size:30px;
+	}
+	.text10{
+		font-size:24px;
+	}
+	.text11{
+		font-size:18px;
+	}
+	.form2{
+		margin-left:250px;
+	}
+	.footer1{
+		padding-left:50px;
+		padding-right:50px;
+	}
+}
+@media (max-width:720px){
+	.wine11{
+		font-size:32px;
+	}
+	.title1{
+		font-size:34px;
+	}
+	.title2{
+		font-size:18px;
+	}
+	.wine{
+		font-size:22px;
+		margin-right:300px;
+	}
+	.text{
+		font-size:20px;
+	}
+	.text2{
+		font-size:18px;
+	}
+	.title3{
+		font-size:28px;
+		margin-bottom:20px;
+	}
+	.title4{
+		font-size:24px;
+		margin-bottom:20px;
+	}
+	.title6{
+		font-size:14px;
+	}
+	.text9{
+		font-size:14px;
+	}
+	.wine2{
+		font-size:24px;
+		margin-right:200px
+	}
+	.text14{
+		font-size:20px;
+	}
+	.text2{
+		font-size:18px;
+	}
+	.form2{
+		margin-left:180px;
+	}
+	.footer1{
+		padding-left:20px;
+		padding-right:20px;
+	}
+}
+@media(max-width:520px){
+	.title8{
+		font-size:18px;
+
+	}
+	.text12{
+		font-size:12px;
+	}
+	.text13{
+		font-size:16px;
+	}
+	.footer1{
+		flex-wrap:wrap;
+		margin-bottom:10px;
+		padding-left:0px;
+		padding-right:0px;
+	}
+	.hower{
+		font-size:16px;
+	}
+}
+
+@media (max-width:484px){
+	.form1{
+		height:20px;
+		width:160px;
+	}
+	.word1{
+		font-size:20px;
+	}
+	.word2{
+		font-size:20px;
+	}
+	.word3{
+		font-size:16px;
+	}
+	.text-word1{
+		font-size:20px;
+	}
+	.text-word2{
+		font-size:20px;
+	}
+	.form2{
+		margin-left:70px;
+	}
+	.button{
+		font-size:12px;
+	}
+	.input{
+		font-size:12px;
+	}
+}
+/* responsive for contract page */
+@media (max-width:850px){
+	.contact1{
+		flex-wrap: wrap;
+	}
+	.contact-information{
+		font-size: 30px;
+	}
+	.contact-text{
+		font-size: 22px;
+	}
+
+}
+@media (max-width:600px){
+	.iframe{
+		width: 90%;
+		margin-top:10px ;
+		padding-bottom: 50px;
+		padding-left: 20px;
+	}
+	.contact2{
+		padding-left: 20px;
+	}
+
+}
+
+
